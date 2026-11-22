@@ -1,10 +1,3 @@
-<p align="center">
-  <img src="./gif%20Github.gif" width="100%" alt="Sabrina Ribeiro">
-</p>
-<!--```text
-꒷꒦︶꒷꒦︶ ๋ ࣭ ⭑ ꒷꒦
-```
-
 
 <div align="center">
 
@@ -18,9 +11,9 @@
 
 </div>
 
-Olá! Sou **Sabrina Ribeiro**, estudante de **Desenvolvimento de Sistemas no SENAC**. Tenho 18 anos e sou apaixonada por jogos, tecnologia e pelo universo da programação.
+Olá! Sou **Sabrina Ribeiro**, estudante de **Desenvolvimento de Sistemas no SENAC**. Tenho 18 anos e sou apaixonada por jogos, tecnologia e programação.
 
-Atualmente, estou explorando o mundo do desenvolvimento back-end, estudando **C# e Java** e aprimorando minhas habilidades a cada novo projeto.
+Atualmente, estou estudando **C# e Java**, com foco no desenvolvimento back-end, aprimorando minhas habilidades e criando novos projetos.
 
 <div align="center">
 
@@ -34,7 +27,7 @@ Atualmente, estou explorando o mundo do desenvolvimento back-end, estudando **C#
 - ౨ৎ Estudando C# e Java.
 - ⋆ Foco em desenvolvimento back-end.
 - ♡ Apaixonada por jogos e tecnologia.
-- ⊹ Sempre aprendendo e criando coisas novas.
+- ⊹ Sempre aprendendo coisas novas.
 
 <div align="center">
 
@@ -62,11 +55,11 @@ Atualmente, estou explorando o mundo do desenvolvimento back-end, estudando **C#
 ## ୨୧・current status
 
 ```text
-╭・PLAYER: Sabrina
-├・AGE: 18
-├・CLASS: Backend Developer
-├・LEARNING: C# & Java
-╰・STATUS: Leveling up...
+PLAYER: Sabrina
+AGE: 18
+CLASS: Backend Developer
+LEARNING: C# & Java
+STATUS: Leveling up...
 ```
 
 <div align="center">
@@ -76,4 +69,3 @@ Atualmente, estou explorando o mundo do desenvolvimento back-end, estudando **C#
 *creating my own world, one line at a time.*
 
 </div>
-
