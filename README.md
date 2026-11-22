@@ -5,31 +5,61 @@
 ꒷꒦︶꒷꒦︶ ๋ ࣭ ⭑ ꒷꒦
 ```
 
+
+<div align="center">
+
 # ⋆˚࿔ Sabrina Ribeiro 𝜗𝜚˚⋆
 
-`18 y/o` 𖤐 `backend developer in progress`
+`18 y/o` ・ `Backend Developer in progress`
 
-*𓆩♡𓆪 Welcome to my little corner of the internet.*
+⋆｡‧˚ʚ🩸ɞ˚‧｡⋆
 
-Olá! Sou Sabrina Ribeiro, estudante de **Desenvolvimento de Sistemas no SENAC**. Tenho 18 anos e sou apaixonada por jogos, tecnologia e pelo universo da programação.
+*Welcome to my little corner of the internet.*
+
+</div>
+
+Olá! Sou **Sabrina Ribeiro**, estudante de **Desenvolvimento de Sistemas no SENAC**. Tenho 18 anos e sou apaixonada por jogos, tecnologia e pelo universo da programação.
 
 Atualmente, estou explorando o mundo do desenvolvimento back-end, estudando **C# e Java** e aprimorando minhas habilidades a cada novo projeto.
 
-꒷꒦︶꒷꒦︶ ๋ ࣭ ⭑ ꒷꒦
+<div align="center">
 
-### ୨୧ about me
+⋆｡‧˚ʚ🩸ɞ˚‧｡⋆
 
-- 𖤐 Estudante de Desenvolvimento de Sistemas no SENAC.
-- ⟡ Estudando C# e Java.
-- ౨ৎ Foco em desenvolvimento back-end.
-- ⋆ Apaixonada por jogos e tecnologia.
-- ♡ Sempre aprendendo e criando coisas novas.
+</div>
 
-### 𓆩♡𓆪 technologies
+## ୨୧・about me
 
-`C#` ୨୧ `Java` ୨୧ `Git` ୨୧ `GitHub`
+- ⟡ Estudante de Desenvolvimento de Sistemas no SENAC.
+- ౨ৎ Estudando C# e Java.
+- ⋆ Foco em desenvolvimento back-end.
+- ♡ Apaixonada por jogos e tecnologia.
+- ⊹ Sempre aprendendo e criando coisas novas.
 
-### ⭑ current status
+<div align="center">
+
+⋆｡‧˚ʚ🩸ɞ˚‧｡⋆
+
+</div>
+
+## ୨୧・technologies
+
+<div align="center">
+
+![C#](https://img.shields.io/badge/C%23-8B0000?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-8B0000?style=for-the-badge&logo=openjdk&logoColor=white)
+![Git](https://img.shields.io/badge/Git-8B0000?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-8B0000?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+<div align="center">
+
+⋆｡‧˚ʚ🩸ɞ˚‧｡⋆
+
+</div>
+
+## ୨୧・current status
 
 ```text
 ╭・PLAYER: Sabrina
@@ -39,11 +69,11 @@ Atualmente, estou explorando o mundo do desenvolvimento back-end, estudando **C#
 ╰・STATUS: Leveling up...
 ```
 
-꒷꒦︶꒷꒦︶ ๋ ࣭ ⭑ ꒷꒦
+<div align="center">
+
+⋆｡‧˚ʚ🩸ɞ˚‧｡⋆
 
 *creating my own world, one line at a time.*
 
-```text
-. ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.
-```
-**SabrinaDev08/SabrinaDev08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>
+
