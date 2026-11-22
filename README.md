@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="./header.png" width="100%" alt="Sabrina Ribeiro">
+</p>
 <div align="center">
 
 # ⋆˚࿔ Sabrina Ribeiro 𝜗𝜚˚⋆
